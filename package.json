@@ -1,6 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Ali Waseem",
+	"description": "This is a test project for learning purposes.",
+	"keywords": ["freecodecamp", "learning", "backend", "ali waseem"],
+	"license":"MIT",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
